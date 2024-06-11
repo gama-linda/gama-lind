@@ -1,1 +1,11 @@
-# gama-lind
+**Boas vindas ao meu perfil 💙💙**
+###Meu nome é nome **Isabelle Gama** 
+
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+Você pode entrar em contato comigo 📫
+00001093830232sp@al.educacao.sp.gov.br
+@gamaestudante
+
